@@ -14,7 +14,7 @@ Here are some examples of HEAL tested on __*real clinical intraprocedural CBCT s
 
 ### Reconstruction results in axial view
 
-The two-frame GIFs switch between the averaged image and the HEAL result to show the reduction of motion artifacts. The reference images were acquired in a separate scan with ventilation suspended at deep inspiration.
+The two-frame GIFs switch between the uncorrected image and the HEAL result to show the reduction of motion artifacts. The reference images were acquired in a separate scan with ventilation suspended at deep inspiration.
 
 <p align=center>
 <img width="2.9%" src="demo/labels/fig1-corner.png">
@@ -37,29 +37,29 @@ The two-frame GIFs switch between the averaged image and the HEAL result to show
 
 ### Dynamic results in coronal view
 
-The two-frame GIFs compare the averaged image with the HEAL result, and the dynamic images show the HEAL reconstruction over a respiratory cycle. MIP denotes maximum intensity projection.
+The two-frame GIFs compare the uncorrected image with the HEAL result, and the dynamic images show the HEAL reconstruction over a respiratory cycle. MIP denotes maximum intensity projection.
 
 <p align=center>
-<img width="2.8%" src="demo/labels/fig2-corner.png">
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h1-dark.png"><img width="18.7%" src="demo/labels/fig2-h1.png"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h2-dark.png"><img width="18.7%" src="demo/labels/fig2-h2.png"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h3-dark.png"><img width="18.7%" src="demo/labels/fig2-h3.png"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h4-dark.png"><img width="18.7%" src="demo/labels/fig2-h4.png"></picture><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case1-dark.png"><img width="2.8%" src="demo/labels/fig2-case1.png"></picture>
-<img width="18.7%" src="demo/fig2-1-1.gif">
-<img width="18.7%" src="demo/fig2-1-2.gif">
-<img width="18.7%" src="demo/fig2-1-3.gif">
-<img width="18.7%" src="demo/fig2-1-4.gif"><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case2-dark.png"><img width="2.8%" src="demo/labels/fig2-case2.png"></picture>
-<img width="18.7%" src="demo/fig2-2-1.gif">
-<img width="18.7%" src="demo/fig2-2-2.gif">
-<img width="18.7%" src="demo/fig2-2-3.gif">
-<img width="18.7%" src="demo/fig2-2-4.gif"><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case3-dark.png"><img width="2.8%" src="demo/labels/fig2-case3.png"></picture>
-<img width="18.7%" src="demo/fig2-3-1.gif">
-<img width="18.7%" src="demo/fig2-3-2.gif">
-<img width="18.7%" src="demo/fig2-3-3.gif">
-<img width="18.7%" src="demo/fig2-3-4.gif">
+<img width="2.6%" src="demo/labels/fig2-corner.png">
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h1-dark.png"><img width="18.8%" src="demo/labels/fig2-h1.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h2-dark.png"><img width="18.8%" src="demo/labels/fig2-h2.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h3-dark.png"><img width="18.8%" src="demo/labels/fig2-h3.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-h4-dark.png"><img width="18.8%" src="demo/labels/fig2-h4.png"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case1-dark.png"><img width="2.6%" src="demo/labels/fig2-case1.png"></picture>
+<img width="18.8%" src="demo/fig2-1-1.gif">
+<img width="18.8%" src="demo/fig2-1-2.gif">
+<img width="18.8%" src="demo/fig2-1-3.gif">
+<img width="18.8%" src="demo/fig2-1-4.gif"><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case2-dark.png"><img width="2.6%" src="demo/labels/fig2-case2.png"></picture>
+<img width="18.8%" src="demo/fig2-2-1.gif">
+<img width="18.8%" src="demo/fig2-2-2.gif">
+<img width="18.8%" src="demo/fig2-2-3.gif">
+<img width="18.8%" src="demo/fig2-2-4.gif"><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="demo/labels/fig2-case3-dark.png"><img width="2.6%" src="demo/labels/fig2-case3.png"></picture>
+<img width="18.8%" src="demo/fig2-3-1.gif">
+<img width="18.8%" src="demo/fig2-3-2.gif">
+<img width="18.8%" src="demo/fig2-3-3.gif">
+<img width="18.8%" src="demo/fig2-3-4.gif">
 </p>
 
 ### Dynamic augmented fluoroscopy
